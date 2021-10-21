@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntegraTask", "EntegraTask.csproj", "{296C7CE1-AA8C-45C7-A60E-EC81A45A7ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296C7CE1-AA8C-45C7-A60E-EC81A45A7ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296C7CE1-AA8C-45C7-A60E-EC81A45A7ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296C7CE1-AA8C-45C7-A60E-EC81A45A7ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296C7CE1-AA8C-45C7-A60E-EC81A45A7ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4A88C0-218E-4B52-8110-B41A1021885C}
+	EndGlobalSection
+EndGlobal
